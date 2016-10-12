@@ -87,10 +87,33 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
-
-
-
-
+li {
+     display: inline;
+   }
+ul {
+     border: solid 1px;
+     padding: 0px;
+     margin: 0px;
+   }
+body {
+       margin: 0px; 
+       font-size: 12px;
+     }
+h1 {
+     font-size: 200%;
+   }
+h2 {
+     font-size: 180%;
+   }
+h3 {
+     font-size: 160%;
+   }
+h4 {
+     font-size: 140%;
+   }
+h5 {
+     font-size: 120%;
+   }
 
 
 
